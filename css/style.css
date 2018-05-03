@@ -7,6 +7,12 @@
  }
 */
 
+html *
+{
+   
+   font-family: Cinzel !important;
+}
+
 header{
 
   position: absolute;
