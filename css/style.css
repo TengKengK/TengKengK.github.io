@@ -173,6 +173,9 @@ background-image:url(../images/thirdPic.jpg);
              
         }
 
+html{
+  overflow-x: hidden;
+}
 
 
 /*
